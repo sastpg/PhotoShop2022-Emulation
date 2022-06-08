@@ -31,6 +31,9 @@ Press and hold Alt + scroll-wheel to zoom, or menu bar-image, or magnifying
 glass in left toolbar.
 8. Others:
 There are other small functions to find your own experience!
+![image](https://user-images.githubusercontent.com/91714593/172692961-220e4f93-1b6d-4579-9e56-1acbae22bbec.png)
+![image](https://user-images.githubusercontent.com/91714593/172693009-d74c0093-fe81-45e6-b304-8af53ac90f9a.png)
+
 ## Software Update 
 1. Batch processing function is added compared with photoshop2021;
 2. Update the palette configuration;
